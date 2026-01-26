@@ -48,6 +48,7 @@ These datasets collectively cover customer lifecycle, product usage, and behavio
 
 ## 🧱 Data Modeling
 A **Star Schema** was designed to support high-performance analytics:
+![Relation RBC](model_rbc.jpeg)
 
 ### Fact Table
 - **Bank_Churn**
@@ -119,6 +120,8 @@ The Power BI dashboard is fully interactive and includes:
 - Geography filter
 - Active / Exit category filters
 
+---
+![Dashboard Overview RBC](rbc_dashboard.jpeg)
 ---
 
 ## 🔍 Key Business Insights
