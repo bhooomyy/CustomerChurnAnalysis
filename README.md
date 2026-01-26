@@ -121,7 +121,7 @@ The Power BI dashboard is fully interactive and includes:
 - Active / Exit category filters
 
 ---
-![Dashboard Overview RBC](rbc_dashboard.jpeg)
+![Dashboard Overview RBC](rbc_dashboard.png)
 ---
 
 ## 🔍 Key Business Insights
