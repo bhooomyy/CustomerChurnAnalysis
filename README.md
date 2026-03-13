@@ -1,4 +1,4 @@
-# RBC – Customer Churn Analysis | Power BI Dashboard
+# Customer Churn Analysis | Power BI Dashboard | [Dataset](https://www.kaggle.com/datasets/saadsalim997/rbcchurndataset/)
 
 ## 📌 Project Overview
 This project delivers an **end-to-end Customer Churn Analysis dashboard** built in **Power BI** using a structured **business-driven analytics approach**.  
