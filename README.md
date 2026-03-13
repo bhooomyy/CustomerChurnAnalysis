@@ -110,9 +110,13 @@ The Power BI dashboard is fully interactive and includes:
 ### Churn Analysis Views
 - Exit Customers by Credit Score Category
 - Exit Customers by Gender
+- Exit Customers by age
 - Exit Customers by Credit Card Ownership
 - Monthly Exit Trends with Previous Month Comparison
+- Exit Customers by Tenure
+- Exit Customers by Balance
 - Year-wise churn analysis (2016–2019)
+- Exit Customers by Geography
 
 ### Interactive Controls
 - Year slicer
@@ -121,13 +125,15 @@ The Power BI dashboard is fully interactive and includes:
 - Active / Exit category filters
 
 ---
-![Dashboard Overview RBC](rbc_dashboard.png)
+![Dashboard Overview RBC](dashboard_1.png)
+---
+![Dashboard Overview RBC](dashboard_2.png)
 ---
 
 ## 🔍 Key Business Insights
 - Customers with **lower credit scores** exhibit significantly higher churn
 - **Inactive customers** are more likely to exit than active members
-- **Non-credit card holders** show higher churn rates
+- **Credit card holders** show higher churn rates may be due to dissatisfaction in service provided by bank
 - Certain geographies demonstrate **consistently higher attrition**
 - Churn patterns vary month-over-month, highlighting opportunities for **timely retention campaigns**
 
@@ -136,8 +142,8 @@ The Power BI dashboard is fully interactive and includes:
 ## 🛠 Tools & Technologies
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
-- **Power Query (M Language)**
-- **SQL**
+- **Power Query**
+- **Excel**
 - **Dimensional Data Modeling**
 - **Business Requirement Documentation (BRD)**
 
