@@ -75,7 +75,36 @@ Key transformation steps included:
 - Handling missing and inconsistent values
 - Categorizing credit scores into business-friendly buckets:
   - Excellent, Very Good, Good, Fair, Poor
+- Categorizing geography location
+  - 1 - Fance
+  - 2 Spain
+  - 3 Germany
+- Categorizing Gender
+    - 1 Male
+    - 2 Female
+- Active Inactive category
+    - 1 Active
+    - 0 Inactive
+- Age wise category
+  - agd<18 Kids
+  - age>18 and age<24 Young adults
+  - age>24 and age<39 Adults
+  - age>39 and age<64 Middle aged
+  - age>64 Retired
+- Credit type
+  -  credit >= 800 and <=850 Excellent
+  -  credit >=740 and <=799 Very good
+  -  credit >=670 and <=639 Good
+  -  credit >=580 and <=669 Fair
+  -  cedit >=300 and <=579 Poor
 - Standardizing categorical fields
+- Balance range
+  - balance <25000 Very low
+  - balance >=25000 and <50000 Low
+  - balance >=50000 and <100000 Medium
+  - balance >=100000 and <150000 High
+  - balance >=150000 and <200000 Very High
+  - balance >=200000 Extreme
 - Creating derived columns for churn analysis
 - Optimizing data types for DAX performance
 
